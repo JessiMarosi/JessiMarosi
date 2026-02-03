@@ -2,6 +2,8 @@
 
 Infrastructure Security • Systems Reasoning • Risk & Formal Analysis
 
+**Security is not just controls — it is accountable decision-making that survives scrutiny.**
+
 ---
 
 ## Focus
