@@ -6,8 +6,6 @@ Infrastructure Security • Systems Reasoning • Risk & Formal Analysis
 
 **Security is not just controls — it is accountable decision-making that survives scrutiny.**
 
----
-
 ## Focus
 
 I work at the intersection of **infrastructure security**, **systems design**, and **formal reasoning**, with an emphasis on governance in regulated and high-consequence environments.
