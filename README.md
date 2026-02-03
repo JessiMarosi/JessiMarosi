@@ -54,7 +54,7 @@ A local-first, cross-platform workbench and methodology for secure, auditable, A
 
 I publish professional work under **Bytelock Technologies Inc.**, where projects are curated, documented, and presented for long-term clarity rather than short-term visibility.
 
-(Website forthcoming)
+https://www.bytelocktechinc.com/
 
 ---
 
