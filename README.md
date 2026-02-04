@@ -4,7 +4,7 @@ Infrastructure Security • Systems Reasoning • Risk & Formal Analysis
 
 ---
 
-**Security is not just controls — it is accountable decision-making that survives scrutiny.**
+**Security is not just controls; it is accountable decision-making that survives scrutiny. These projects exist to make public, in an inspectable form, the structural governance and accountability failures that industry already recognizes but rarely externalizes.**
 
 ## Focus
 
